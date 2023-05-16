@@ -2519,11 +2519,10 @@
 .elementor-10 .elementor-element.elementor-element-1de690fb:not(.elementor-motion-effects-element-type-background),
 .elementor-10 .elementor-element.elementor-element-1de690fb>.elementor-motion-effects-container>.elementor-motion-effects-layer {
     background-color: transparent;
-    background-image: radial-gradient(at bottom center, #a8bb7e 0%, #5f8c35 100%);
+    background-image: radial-gradient(at bottom center, #000000 0%, #000000 100%);
 }
 
 .elementor-10 .elementor-element.elementor-element-1de690fb>.elementor-background-overlay {
-    background-image: url("https://pepe-escobar.com/wp-content/uploads/2023/05/bgpablo.png");
     background-position: bottom center;
     background-repeat: repeat-x;
     background-size: 52% auto;
